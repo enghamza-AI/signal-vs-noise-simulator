@@ -1,2 +1,9 @@
-# signal-vs-noise-simulator
-Exploring the Impact of Noise on Machine Learning: A Simple Signal vs Noise Simulator
+# Signal vs Noise Simulator
+
+This project demonstrates how a simple linear regression model can fail to accurately learn the underlying pattern in data when noise is added.
+
+## Requirements
+
+- Python 3.7+
+
+
